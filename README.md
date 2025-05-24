@@ -1,15 +1,13 @@
 <p align="center">
   <h1 align="center">Hi there, I'm Ayesha Nadeem 👋</h1>
-  <p align="center">
-    🎓 CS Student | 📊 Aspiring Data Scientist & Web Developer 
-
-  <br>💡 Passionate about turning data into meaningful insights and building impactful applications
-</p>
+    <p align="center">
+    🎓 CS Student | 💻 Developer | 📊 Data Enthusiast | 🌱 Learner
+  </p>
 </p>
 
 ---
 
-## 🧠 About Me
+## 💬 About Me
 
 I'm a dedicated Computer Science undergraduate with a strong interest in Data Science and Web Development. My academic journey has equipped me with a solid foundation in programming, data analysis, and software development. I thrive on solving complex problems and continuously seek opportunities to learn and grow.
 
