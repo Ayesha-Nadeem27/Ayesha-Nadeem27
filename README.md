@@ -13,44 +13,6 @@ I'm a dedicated Computer Science undergraduate with a strong interest in Data Sc
 
 ---
 
-## 🔧 Skills & Technologies
-
-- **Languages:** Python, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** FastAPI, Streamlit, Bootstrap
-- **Databases:** PostgreSQL (NeonDB), SQLite
-- **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook
-
----
-
-## 🚀 Projects
-
-### ✈️ Analysis of FlightRadar24 Software Design
-Conducted a comprehensive analysis of FlightRadar24's software architecture, focusing on system design principles, modularity, and user interface considerations.
-
-### 🛒 Online E-commerce Platform
-Developed a full-stack e-commerce website using FastAPI and Streamlit, integrating NeonDB for database management, featuring dynamic product listings and user authentication.
-
-### 🎮 Console-Based Games in C++
-Created classic games like Tic Tac Toe and Hangman using C++, emphasizing object-oriented programming concepts and user interaction.
-
-### 📱 Social Media App in C++  
-Designed a console-based social media application in C++, implementing features like user profiles, friend requests, and messaging. Showcased OOP principles like encapsulation, inheritance, and file handling.  
-🔗 [GitHub Repository](https://github.com/Ayesha-Nadeem27/Cpp)
-
-### 🧮 Interactive Calculator
-Built a responsive calculator web app using HTML, CSS, and JavaScript, enabling basic arithmetic operations with a clean user interface.  
-🔗 [GitHub Repository](https://github.com/Ayesha-Nadeem27/Calculator)
-
-### 🎵 Web-Based Music Player
-Developed a music player application with play, pause, and track navigation functionalities using HTML, CSS, and JavaScript.  
-🔗 [GitHub Repository](https://github.com/Ayesha-Nadeem27/Music-Player)
-
-### 🌐 Personal Portfolio Website
-Designed a personal portfolio to showcase academic achievements and projects, utilizing HTML and CSS for a responsive layout.  
-🔗 [GitHub Repository](https://github.com/Ayesha-Nadeem27/Basic-Portfolio)
-
----
-
 ## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
