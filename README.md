@@ -1,7 +1,6 @@
 # Hi there, I'm Ayesha Nadeem 👋
 
-🎓 Computer Science Student at COMSATS University Islamabad, Wah Campus  
-📊 Aspiring Data Scientist & Web Developer  
+🎓 CS Student | 📊 Aspiring Data Scientist & Web Developer  
 💡 Passionate about turning data into meaningful insights and building impactful applications
 
 ---
