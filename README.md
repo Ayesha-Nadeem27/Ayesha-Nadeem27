@@ -1,10 +1,10 @@
 <p align="center">
   <h1 align="center">Hi there, I'm Ayesha Nadeem 👋</h1>
   <p align="center">
-    🎓 Computer Science Student at COMSATS University Islamabad, Wah Campus  
-    <br>📊 Aspiring Data Scientist & Web Developer  
-    <br>💡 Passionate about turning data into meaningful insights and building impactful applications
-  </p>
+    🎓 CS Student | 📊 Aspiring Data Scientist & Web Developer 
+
+  <br>💡 Passionate about turning data into meaningful insights and building impactful applications
+</p>
 </p>
 
 ---
