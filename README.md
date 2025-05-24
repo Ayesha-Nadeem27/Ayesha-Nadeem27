@@ -12,5 +12,5 @@
 - 💡 [Social Media App in C++](#)
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn]((https://www.linkedin.com/in/ayesha-nadeem-khan-604bb2366/))
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/ayesha-nadeem-khan-604bb2366/](https://www.linkedin.com/in/your-profile)))
 - 📧 ayeshanadeem2408@gmail.com
