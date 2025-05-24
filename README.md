@@ -58,7 +58,7 @@ Designed a personal portfolio to showcase academic achievements and projects, ut
 ## 📫 Let's Connect
 
 - 📧 Email: [ayeshanadeem2408@gmail.com](mailto:ayeshanadeem2408@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ayesha-nadeem](https://www.linkedin.com/in/ayesha-nadeem)
+- 💼 LinkedIn: [linkedin.com/in/ayesha-nadeem](https://www.linkedin.com/in/ayesha-nadeem-khan-604bb2366/)
 
 ---
 
