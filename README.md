@@ -1,7 +1,11 @@
-# Hi there, I'm Ayesha Nadeem 👋
-
-🎓 CS Student | 📊 Aspiring Data Scientist & Web Developer  
-💡 Passionate about turning data into meaningful insights and building impactful applications
+<p align="center">
+  <h1 align="center">Hi there, I'm Ayesha Nadeem 👋</h1>
+  <p align="center">
+    🎓 Computer Science Student at COMSATS University Islamabad, Wah Campus  
+    <br>📊 Aspiring Data Scientist & Web Developer  
+    <br>💡 Passionate about turning data into meaningful insights and building impactful applications
+  </p>
+</p>
 
 ---
 
@@ -31,8 +35,9 @@ Developed a full-stack e-commerce website using FastAPI and Streamlit, integrati
 ### 🎮 Console-Based Games in C++
 Created classic games like Tic Tac Toe and Hangman using C++, emphasizing object-oriented programming concepts and user interaction.
 
-### 📱 Social Media App (C++)
-Designed a console-based social media application in C++, implementing features like user profiles, friend requests, and messaging, showcasing OOP principles.
+### 📱 Social Media App in C++  
+Designed a console-based social media application in C++, implementing features like user profiles, friend requests, and messaging. Showcased OOP principles like encapsulation, inheritance, and file handling.  
+🔗 [GitHub Repository](https://github.com/Ayesha-Nadeem27/Cpp)
 
 ### 🧮 Interactive Calculator
 Built a responsive calculator web app using HTML, CSS, and JavaScript, enabling basic arithmetic operations with a clean user interface.  
