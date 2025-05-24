@@ -57,11 +57,10 @@ Designed a personal portfolio to showcase academic achievements and projects, ut
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
-- 📧 Email: [ayeshanadeem2408@gmail.com](mailto:ayeshanadeem2408@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-nadeem-khan-604bb2366/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshanadeem2408@gmail.com)
 
----
 
 *Thank you for visiting my profile! I'm always eager to collaborate on exciting projects and explore new technologies.*
