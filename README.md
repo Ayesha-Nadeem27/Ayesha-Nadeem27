@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ayesha 👋
+🎓 Computer Science student at COMSATS University, Wah  
+🌐 Aspiring Data Scientist & Web Developer  
+🛠️ Skilled in Python, C++, HTML, CSS, JavaScript  
+📊 Passionate about turning data into meaningful insights  
+🌱 Currently learning: FastAPI, Data Visualization, and ML Basics
 
-<!--
-**Ayesha-Nadeem27/Ayesha-Nadeem27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
+- 🔢 [Interactive Calculator](https://github.com/Ayesha-Nadeem27/Calculator)
+- 🎵 [Web-Based Music Player](https://github.com/Ayesha-Nadeem27/Music-Player)
+- 🧑‍💼 [Personal Portfolio Website](https://github.com/Ayesha-Nadeem27/Basic-Portfolio)
+- 💡 [Social Media App in C++](#)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect!
+- 💼 [LinkedIn]((https://www.linkedin.com/in/ayesha-nadeem-khan-604bb2366/))
+- 📧 ayeshanadeem2408@gmail.com
